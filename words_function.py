@@ -1,4 +1,7 @@
-
+#Tusubira David 2018/HD05/198U
+#Angole Daniel
+#Allan Murungi
+#Nanziri Eunice
 
 def words(string):                                                 #function taking in one argument              
     accumulating_word = ""                                         #variable to store words as they accumulate character by character

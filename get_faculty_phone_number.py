@@ -1,3 +1,8 @@
+#Tusubira David 2018/HD05/198U
+#Angole Daniel
+#Allan Murungi
+#Nanziri Eunice
+
 import urllib.request       #Adjusted library/module name to python3 version
 import re
 

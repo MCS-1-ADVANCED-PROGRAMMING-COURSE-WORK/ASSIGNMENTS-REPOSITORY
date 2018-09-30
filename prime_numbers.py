@@ -1,3 +1,7 @@
+#Tusubira David 2018/HD05/198U
+#Angole Daniel
+#Allan Murungi
+#Nanziri Eunice
 
 def primes(number):                    #Function has one argument for the input number
     output_list = []                   #create output list variable
